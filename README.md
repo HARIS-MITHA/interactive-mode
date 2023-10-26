@@ -1,2 +1,2 @@
-# interactive-mode
-interactive mode in python
+Python is Interactive: This means that you can actually sit at a Python prompt and interact with the interpreter directly to write your programs. Python is Object-Oriented: This means that Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+In interactive mode what you type is immediately run. Try typing 1+1 in. Python will respond with 2. Interactive mode allows you to test out and see what Python will do.
